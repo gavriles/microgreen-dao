@@ -19,7 +19,7 @@ A minimal viable product (MVP) for the Microgreens DAO project using Telegram bo
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/microgreens-dao-mvp.git
+    git clone https://github.com/gavriles/microgreens-dao-mvp.git
     ```
 2. Install dependencies:
     ```sh
