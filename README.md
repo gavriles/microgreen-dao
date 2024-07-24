@@ -1,6 +1,6 @@
-# Microgreens DAO MVP
+# Microgreen DAO 
 
-A minimal viable product (MVP) for the Microgreens DAO project using Telegram bot, Node.js, MongoDB, and the TON blockchain.
+A minimal viable product (MVP) for the Microgreen DAO project using Telegram bot, Node.js, MongoDB, and the TON blockchain.
 
 ## Features
 - User registration and authorization
@@ -19,7 +19,7 @@ A minimal viable product (MVP) for the Microgreens DAO project using Telegram bo
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/gavriles/microgreens-dao-mvp.git
+    git clone https://github.com/gavriles/microgreen-dao.git
     ```
 2. Install dependencies:
     ```sh
